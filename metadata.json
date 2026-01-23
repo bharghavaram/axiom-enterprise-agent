@@ -1,0 +1,8 @@
+{
+  "name": "AXIOM - Enterprise Workflow Intelligence",
+  "description": "A multi-agent autonomous intelligence system that transforms business documents into actionable workflows, requirements, and project plans.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
