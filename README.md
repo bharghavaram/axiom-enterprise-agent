@@ -16,7 +16,11 @@
 
 ---
 
-## 🎯 Problem Statement
+<div align="center">
+  <img src="https://raw.githubusercontent.com/bharghavaram/axiom-enterprise-agent/main/docs/images/demo.svg" alt="axiom-enterprise-agent demo" width="820"/>
+</div>
+
+--- 🎯 Problem Statement
 
 Enterprise business intelligence requires analysing workflows, modelling risks, generating project plans, and producing reports — typically requiring a team of analysts, project managers, and data scientists over weeks. Axiom is an autonomous multi-agent system powered by Google Gemini and RAG that performs all these roles simultaneously: workflow analysis, project planning, risk modelling, competitive intelligence, and automated report generation — compressing weeks of analysis into minutes.
 
